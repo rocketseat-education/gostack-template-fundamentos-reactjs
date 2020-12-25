@@ -27,6 +27,7 @@
   "rules": {
     "react/jsx-props-no-spreading": "off",
     "prettier/prettier": "error",
+    "no-multi-str": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
